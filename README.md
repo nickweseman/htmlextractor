@@ -1,4 +1,4 @@
-# htmlextractor
+# htmlextractor + epub
 Download and extract portions of a website in html format and package them up for epub conversion:
 
 Using Python 3.
