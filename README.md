@@ -14,7 +14,7 @@ Steps:
       ```
 5.  python extractor.py
       ```
-      This will generate a table of contents html file in the output/<ebook_name>/clean folder.
+      This will generate a table of contents html file in the "output/<ebook_name>/clean" folder.
       ```
 6.  Import the toc html file into Calibre (drag and drop)
       ```
