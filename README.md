@@ -11,7 +11,7 @@ Steps:
       update EPUB_NAME to be your desired epub name.
       update URL and corresponding logic in parse() to fit your html site.
 5.  python extractor.py
-      This will generate a table of contents html file in the <ebook_name>/clean folder.
+      This will generate a table of contents html file in the output/<ebook_name>/clean folder.
 6.  Import the toc html file into Calibre (drag and drop)
       Download Calibre from https://calibre-ebook.com/
 7.  Right click on the book in Calibre -> Convert books -> Convert individually.
