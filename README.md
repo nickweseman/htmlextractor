@@ -16,7 +16,7 @@ Steps:
       ```
       This will generate a table of contents html file in the "output/<ebook_name>/clean" folder.
       ```
-6.  Import the toc html file into Calibre (drag and drop)
+6.  Import the toc html file into Calibre via drag and drop
       ```
       Download Calibre from https://calibre-ebook.com/
       ```
