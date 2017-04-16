@@ -1,5 +1,5 @@
 # htmlextractor + ebook packaging
-Download and extract portions of a website in html format and package them up for epub conversion:
+This tool downloads and extracts portions of a website in html format and packages them up for epub conversion:
 
 Using Python 3.
 
